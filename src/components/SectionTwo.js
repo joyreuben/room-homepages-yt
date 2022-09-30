@@ -10,7 +10,7 @@ export default function SectionTwo() {
                 <img src={aboutDark} alt="" className='w-full'/>
             </article>
 
-            <article className='p-8 lg:p-10'>
+            <article className='p-8 lg:p-8'>
                 <h2 className='font-semibold text-2xl lg:text-3xl uppercase'>About our furniture</h2>
                 <p className='text-slate-900 opacity-75 mt-6'>
                 Our multifunctional collection blends design and function to suit your individual taste.
